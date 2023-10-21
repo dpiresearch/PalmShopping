@@ -10,6 +10,9 @@ Make sure you generate your credentials and set the GOOGLE_API_CREDENTIALS env v
 ## Execution
 % python google_palm.py
 
+## Issues
+The links that show up right now all end in the same token.  For example, the Amazon links in the below sample all end in B097556645 .  However, if you try this on the Bard UI, the links work.
+
 ## Sample output
 
 | Rank | Laptop | GPU | CPU | RAM | Screen Size | Storage | Price | Link |
