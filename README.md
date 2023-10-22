@@ -2,7 +2,7 @@
 Generate shopping links using Google Palm
 
 ## Overview
-Program that calls the Google Palm generative models to query for shopping products and produce links.  In this case, the query asks for recommendations of monitors from Amazon.com and associated urls.
+Program that calls the Google Palm generative models to query for shopping products and produce links.  In this case, the query asks for recommendations of laptops from Amazon.com and associated urls.
 
 ## Pre-requisites
 Make sure you generate your credentials and set the GOOGLE_API_CREDENTIALS env variable to point to it
