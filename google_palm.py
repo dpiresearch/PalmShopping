@@ -24,12 +24,14 @@ from google.api_core import retry
 @retry.Retry()
 def generate_text(prompt,
                   model=model_bison,
-                  temperature=0.0):
+                  temperature=1.0):
     return palm.generate_text(prompt=prompt,
                               model=model,
                               temperature=temperature)
 
 # Example prompt that generates shopping links
-prompt = "List the best GPU laptops on Amazon.com and include the urls"
+prompt = "Show me the top computer monitors on Amazon.com and include the url links to Amazon.com"
+
+print(prompt)
 completion = generate_text(prompt)
 print(completion.result)
