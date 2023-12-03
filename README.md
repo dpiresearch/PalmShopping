@@ -46,3 +46,36 @@ You entered: iphone chargers
 - [Apple MagSafe Charger - Wireless Charger with Fast ... - Amazon.com](https://www.amazon.com/Apple-MHXH3AM-A-MagSafe-Charger/dp/B08L5NP6NG)
 - [4 Pack [Apple MFi Certified] Apple Charging Cables ... - Amazon.com](https://www.amazon.com/Certified-Charging-Cables-Chargers-Lightning/dp/B09BNDR17R)
 
+# 3. Vision Shop
+
+App that helps you shop based on pictures.
+
+## Usage
+
+Navigate to https://huggingface.co/spaces/dpang/vision_shop
+
+Enter a url to an image with objects you're interesting in buying.  Hit the 'shop' button
+The App will generate links to Amazon related to the objects it sees.
+
+## Example
+
+Use the following url for the image
+
+https://images.ctfassets.net/7rldri896b2a/4augh14at0OZJuEhbWF0av/09dd54fe6543a36f2832f79cc51adad1/spc-bathdecor.jpg
+
+## Output
+
+decorative arched wall mirror bathroom vanity with storage
+- [HQiJun Wall Mirror Window Decorative Mirrors ... - Amazon.com](https://www.amazon.com/Decorative-Mirrors-Farmhouse-Entryway-Bathroom/dp/B09DCLQBLC?tag=dpang-20)
+- [Maxpeuvon Kids Bathroom Mirror with Shelf, Entryway ... - Amazon.com](https://www.amazon.com/Maxpeuvon-Bathroom-Entryway-Organizer-Bedroom/dp/B0BX5Y4S4S?tag=dpang-20)
+- [HQiJun Wall Mirror Window Decorative Mirrors Arched Farmhouse ...](https://www.amazon.com/HQiJun-Decorative-Farmhouse-Entryway-Bathroom/dp/B0BTSNP1SK?tag=dpang-20)
+- [Wall-Mounted Vanity Mirrors Arched Wall Mirror ... - Amazon.com](https://www.amazon.com/Wall-Mounted-Decorative-Bathroom-Aluminum-Entryway/dp/B0CBRY4D3W?tag=dpang-20)
+- [Amazon.com: OGCAU Wall Mounted Mirror for Bathroom, Arched ...](https://www.amazon.com/OGCAU-Bathroom-Decorative-Aluminum-Entryway/dp/B09QPFB1CF?tag=dpang-20)
+- [AZODY Arched Window Wall Mirror with Shelf, 36''x24 ... - Amazon.com](https://www.amazon.com/AZODY-Hanging-Entryway-Decorative-Bathroom/dp/B0CK29MYXG?tag=dpang-20)
+- [AZODY Arched Window Wall Mirror with Shelf, 36''x24 ... - Amazon.com](https://www.amazon.com/AZODY-Hanging-Entryway-Decorative-Bathroom/dp/B0CK25LG8W?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AVN3V2XB4JWWR&tag=dpang-20)
+- [Kate and Laurel Barnhardt Decorative Wooden Wall ... - Amazon.com](https://www.amazon.com/Kate-Laurel-Arendahl-Frameless-Inspired/dp/B0BCSVV5MX?tag=dpang-20)
+- [Kate and Laurel Astora Modern Arched Wall Mirror, 18 ... - Amazon.com](https://www.amazon.com/Kate-Laurel-Midcentury-Storage-Display/dp/B092BNC3P3?tag=dpang-20)
+- [Kate and Laurel Peyson Arched Wall Mirror with Shelf ... - Amazon.com](https://www.amazon.com/Kate-Laurel-Decorative-Storage-Glamorous/dp/B0B2369WJV?tag=dpang-20)
+
+
+
